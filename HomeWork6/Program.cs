@@ -21,7 +21,7 @@ namespace HomeWork6
             StudentsGroup group1 = new StudentsGroup("СШ-2021");
             StudentsGroup group2 = new StudentsGroup("ФШ-2021");
 
-            //распредилим студентов по группам
+            //распределим студентов по группам
             group1.AddStudent(student1);
             group1.AddStudent(student2);
 
